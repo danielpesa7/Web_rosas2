@@ -433,8 +433,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border-
 }
 */
 .slider-img img { position: relative; z-index: -1; }
-.slider-captions { position: absolute; bottom: 150px; width: 100%; color: #fff; }
-.slider-title { color: #000000; font-size: 38px; font-weight: 700; letter-spacing: 2px; line-height: 50px;font-family: 'PT Serif';font-style: italic}/*Rudo*/
+.slider-captions { position: absolute; bottom: 320px; width: 85%; color: #fff; }
+.slider-title { color: #000000; font-size: 38px; font-weight: 700; letter-spacing: 2px; line-height: 50px; font-family: 'PT Serif'; font-style: italic}/*Rudo*/
 .slider-text { color: #181c18; font-weight: 700; letter-spacing: 1px; }
 .slider .owl-dots { text-align: center !important; position: relative; bottom: 40px; }
 .slider .owl-nav { text-align: center; }
