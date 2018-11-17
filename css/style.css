@@ -333,7 +333,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border-
 #navigation, #navigation ul, #navigation ul li, #navigation ul li a, #navigation #menu-button { margin: 0; padding: 0; border: 0; list-style: none; line-height: 1; display: block; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 #navigation:after, #navigation>ul:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
 #navigation #menu-button { display: none; }
-#navigation { padding-top: 9px; font-family: 'Nunito Sans', sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+#navigation { padding-top: 40px; font-family: 'Nunito Sans', sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }/*Paddin top estaba en 9 Rudo */
 #navigation>ul>li { float: left; }
 #navigation.align-center>ul { font-size: 0; text-align: center; }
 #navigation.align-center>ul>li { display: inline-block; float: none; }
